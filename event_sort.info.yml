@@ -1,0 +1,9 @@
+# Package info
+type: module
+name: Event Sort
+description: Example of a custom views sort handler.
+core: 8.x
+
+# Dependencies
+dependencies:
+  - views
