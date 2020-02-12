@@ -1,4 +1,4 @@
-# event_sort
+# Drupal 8: Views Sort Handler Example
 
 This is an example implementation of a custom views sort handler for Drupal 8.
 
